@@ -24,6 +24,8 @@ description: 'The year before his death, the author of The Water Babies and othe
   beloved fantasy novels, collected five lectures from his tour of America for this
   volume: "Westminster Abbey," "The Stage As It Was Once," "The First Discovery of
   America," "The Servant of the Lord," and "Ancient Civilisation."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30944#Lectures-Delivered-in-America-in-1874
 gutenberg_issued: '2010-01-12'
 gutenberg_type: Text
 identifiers:
