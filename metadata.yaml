@@ -1,0 +1,41 @@
+_repo: Lectures-Delivered-in-America-in-1874_30944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+  editor:
+    agent_name: Kingsley, Frances Eliza Grenfell
+    birthdate: 1814
+    deathdate: 1891
+    gutenberg_agent_id: '9226'
+    url: http://www.gutenberg.org/2009/agents/9226
+description: 'The year before his death, the author of The Water Babies and other
+  beloved fantasy novels, collected five lectures from his tour of America for this
+  volume: "Westminster Abbey," "The Stage As It Was Once," "The First Discovery of
+  America," "The Servant of the Lord," and "Ancient Civilisation."'
+gutenberg_issued: '2010-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'PR'
+tableOfContents: Westminster Abbey -- The stage as it was once -- The first discovery
+  of America -- The servant of the Lord -- Ancient civilisation.
+title: Lectures Delivered in America in 1874
+url: http://www.gutenberg.org/ebooks/30944
